@@ -15,3 +15,8 @@ Package used:
 
 `pip install opencv-python`
 
+## Steps to run the code
+
+1. Install the dependancies.
+2. Open url `chrome://dino`
+3. Start the gameplay and execute the script.
