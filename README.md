@@ -1,4 +1,4 @@
 # ChromeDino-Bot
 
 Packages used:
-`pyautogui
+``pyautogui``
