@@ -18,5 +18,5 @@ Package used:
 ## Steps to run the code
 
 1. Install the dependancies.
-2. Open url `chrome://dino`
+2. Open url `chrome://dino` in chrome browser.
 3. Start the gameplay and execute the script.
