@@ -1,6 +1,7 @@
 # ChromeDino-Bot
 
-A simple bot 
+A simple bot to control/automate the keyboard clicks for Chrome dino game.
+
 Package used:
 ``pyautogui``
 
@@ -13,3 +14,4 @@ Package used:
 `pip install pyautogui`
 
 `pip install opencv-python`
+
