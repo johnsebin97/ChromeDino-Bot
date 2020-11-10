@@ -1,11 +1,9 @@
 # ChromeDino-Bot
 
 A simple bot 
-Packages used:
-
+Package used:
 ``pyautogui``
 
-``pywin32``
 
 # Installing the dependancies
 `pip install pywin32`
